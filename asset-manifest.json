@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/would_u_rather_game/static/css/main.7f199c89.css",
+    "main.js": "/would_u_rather_game/static/js/main.76911ded.js",
+    "static/js/453.be1b19df.chunk.js": "/would_u_rather_game/static/js/453.be1b19df.chunk.js",
+    "index.html": "/would_u_rather_game/index.html",
+    "main.7f199c89.css.map": "/would_u_rather_game/static/css/main.7f199c89.css.map",
+    "main.76911ded.js.map": "/would_u_rather_game/static/js/main.76911ded.js.map",
+    "453.be1b19df.chunk.js.map": "/would_u_rather_game/static/js/453.be1b19df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f199c89.css",
+    "static/js/main.76911ded.js"
+  ]
+}
