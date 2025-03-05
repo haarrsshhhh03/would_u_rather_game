@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "AIzaSyB9tjXD-nekp_BY8ou_l_JZv1ghpCMrl6Y"; // Replace with your actual API key
+const API_KEY = "YOUR GEMINI API KEY"; // Replace with your actual API key
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 export const fetchReaction = async (question, choice) => {
